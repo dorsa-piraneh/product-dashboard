@@ -27,7 +27,7 @@ https://dorsa-piraneh.github.io/product-dashboard/
 - Toast and modal alerts using SweetAlert2
 - Fully responsive layout (desktop, tablet, mobile)
 
-## 📝 Notes
+## ⚠️ Notes
 
 - **API Limitations :**
   - Searching can only be performed on the currently fetched page of products.
@@ -97,3 +97,4 @@ ProductDashboard/
 
 **Dorsa Piraneh**  
 GitHub: https://github.com/dorsa-piraneh
+
